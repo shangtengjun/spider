@@ -1,0 +1,11 @@
+import urllib.request
+
+url = "https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png"
+
+req = urllib.request.urlopen(url)
+
+rsp = req.read()
+
+f = open("./tupian.png",'wb')
+f.write(rsp)
+f.close()

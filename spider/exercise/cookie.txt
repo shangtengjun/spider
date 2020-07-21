@@ -1,0 +1,5 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+www.jiayuan.com	FALSE	/	FALSE		PHPSESSID	055a1c5272e59a6a1d4ac5b3164e2117

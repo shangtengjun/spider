@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<bookstore>
+
+    <book category="cooking">
+        <title lang="en">everyday english</title>
+        <author>ting</author>
+        <year>2018</year>
+        <price>55</price>
+    </book>
+
+    <book category="education">
+        <title lang="en">python</title>
+        <author>wu</author>
+        <year>2019</year>
+        <price>85</price>
+    </book>
+
+</bookstore>
