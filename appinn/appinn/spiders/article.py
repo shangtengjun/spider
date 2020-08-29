@@ -1,6 +1,6 @@
 import scrapy
 from appinn.items import Article
-
+'''
 class ArticleSpider(scrapy.Spider):
     #name 是项目中每个爬虫唯一的名字，用来区分不同的爬虫
     name = 'article'
@@ -36,4 +36,28 @@ class ArticleSpider(scrapy.Spider):
         article['content'] = '\n'.join (contents)
         # 给出结果
         #yield，它和 return 类似，但不会结束函数或方法，而能够多次返回内容。
-        yield article
+        yield article'''
+
+urls = ("http://www.gzlis.edu.cn/NewClass-28-{}.html")
+
+class ZhaobiaoSpider(scrapy.Spider):
+    name = 'Zhaobiao'
+    # allowed_domains是允许爬取的域名，如果请求的链接不在这个域名下，那么这些请求将会被过滤掉。
+    allowed_domains = ['www.gzlis.edu.cn']
+    # start_urls 是初始请求地址的列表，也就是一开始就爬取的页面地址列表。
+    start_urls = ['http://www.gzlis.edu.cn/NewClass-28-1.html']
+
+    def parse(self, response):
+        zhaobiao = Article()
+        for article_url in response.xpath('//tr[@height="35"]//a/@href'):
+            if not article_url:
+                continue
+            # 后续请求和解析
+            zhaobiao['url'] = article_url
+            yield response.follow (article_url, self.parse_article)
+
+    def parse_question(self, response):
+        zhaobiao = Article()
+        zhaobiao['title'] = response.xpath('//td[@=width="900"]').extract()
+
+        yield zhaobiao

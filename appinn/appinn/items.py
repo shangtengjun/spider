@@ -12,8 +12,17 @@ class AppinnItem(scrapy.Item):
     pass
 
 class Article(scrapy.Item):
+    '''
     title = scrapy.Field()    # 标题
-    time = scrapy.Field()     # 时间
+    ftime = scrapy.Field()     # 时间
     author = scrapy.Field()   # 作者
     score = scrapy.Field()    # 分数
     content = scrapy.Field()  # 内容
+    '''
+    title = scrapy.Field()
+    content = scrapy.Field()
+    ftime = scrapy.Field()
+    etime = scrapy.Field()
+    leixing = scrapy.Field()
+    url = scrapy.Field()
+    name = scrapy.Field()

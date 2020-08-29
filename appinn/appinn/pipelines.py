@@ -10,6 +10,7 @@ from scrapy.exceptions import DropItem
 
 #Scrapy 替我们自动生成的代码如下，默认会直接 return item，意思是保留所有的 item
 class AppinnPipeline:
+    '''
     #这个 process_item() 方法就是得到结果之后处理 item 的方法，在这里做一些过滤或者对 item 做一些修改都是可以的。
     def process_item(self, item, spider):
         if item.get ('score'):
@@ -19,3 +20,7 @@ class AppinnPipeline:
             if item['score'] < 3:
                 raise DropItem ('去掉 3 分以下的文章')
         return item
+        '''
+    def process_item(self, item, spider):
+        return item
+
