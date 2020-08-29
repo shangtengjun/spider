@@ -1,5 +1,5 @@
-dict = {"aa":"","bb":"","cc":""}
+dict = {"aa":"6","bb":"8","cc":"5"}
 
-dict["aa"] = 1
-dict["bb"] = 2
 print(dict)
+
+

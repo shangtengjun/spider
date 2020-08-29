@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8670bbaf-43bd-44bc-a32f-6a37cf20be26" name="Default Changelist" comment="all spider project">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020_8/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020_8/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020_8/weibo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020_8/公众号.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_work/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_work/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_work/xihu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020_8/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020_8/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020_8/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/exercise/etree糗事百科.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/exercise/etree糗事百科.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,29 +18,7 @@
     <favorites_list name="新建文件夹" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2020_8/1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2020_8/2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -70,11 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spider/children2/05.py" />
-        <option value="$PROJECT_DIR$/spider/exercise/豆瓣登录/-selenium.py" />
-        <option value="$PROJECT_DIR$/spider/exercise/etree糗事百科.py" />
-        <option value="$PROJECT_DIR$/spider/exercise/扇贝单词.py" />
-        <option value="$PROJECT_DIR$/spider/exercise/抖音_selenium.py" />
         <option value="$PROJECT_DIR$/spider/exercise/腾讯bs4.py" />
         <option value="$PROJECT_DIR$/venv/lan.py" />
         <option value="$PROJECT_DIR$/602/class602/class7_wushangteng_511721050575_wangzhehero/wangzhehero.py" />
@@ -104,9 +72,6 @@
         <option value="$PROJECT_DIR$/2020_7/excel文件汇合.py" />
         <option value="$PROJECT_DIR$/2020_7/csv文件汇合.py" />
         <option value="$PROJECT_DIR$/2020_7/多线程爬帖子评论.py" />
-        <option value="$PROJECT_DIR$/appinn/appinn/items.py" />
-        <option value="$PROJECT_DIR$/appinn/appinn/spiders/article.py" />
-        <option value="$PROJECT_DIR$/appinn/appinn/pipelines.py" />
         <option value="$PROJECT_DIR$/2020_7/spider.py" />
         <option value="$PROJECT_DIR$/appinn/appinn/settings.py" />
         <option value="$PROJECT_DIR$/zhihu/zhihu/items.py" />
@@ -120,6 +85,14 @@
         <option value="$PROJECT_DIR$/2020_8/公众号.py" />
         <option value="$PROJECT_DIR$/2020_8/weibo.py" />
         <option value="$PROJECT_DIR$/2020_8/2.py" />
+        <option value="$PROJECT_DIR$/appinn/appinn/items.py" />
+        <option value="$PROJECT_DIR$/appinn/appinn/pipelines.py" />
+        <option value="$PROJECT_DIR$/appinn/appinn/spiders/article.py" />
+        <option value="$PROJECT_DIR$/zhaobiao/zhaobiao/items.py" />
+        <option value="$PROJECT_DIR$/zhaobiao/zhaobiao/settings.py" />
+        <option value="$PROJECT_DIR$/zhaobiao/zhaobiao/spiders/zhao.py" />
+        <option value="$PROJECT_DIR$/spider/exercise/etree糗事百科.py" />
+        <option value="$PROJECT_DIR$/2020_8/3.py" />
         <option value="$PROJECT_DIR$/2020_8/1.py" />
       </list>
     </option>
@@ -149,25 +122,7 @@
             <path>
               <item name="新建文件夹" type="b2602c69:ProjectViewProjectNode" />
               <item name="新建文件夹" type="462c0819:PsiDirectoryNode" />
-              <item name="2020_7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="新建文件夹" type="b2602c69:ProjectViewProjectNode" />
-              <item name="新建文件夹" type="462c0819:PsiDirectoryNode" />
-              <item name="zhihu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="新建文件夹" type="b2602c69:ProjectViewProjectNode" />
-              <item name="新建文件夹" type="462c0819:PsiDirectoryNode" />
-              <item name="zhihu" type="462c0819:PsiDirectoryNode" />
-              <item name="zhihu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="新建文件夹" type="b2602c69:ProjectViewProjectNode" />
-              <item name="新建文件夹" type="462c0819:PsiDirectoryNode" />
-              <item name="zhihu" type="462c0819:PsiDirectoryNode" />
-              <item name="zhihu" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+              <item name="7_work" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -179,7 +134,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -204,27 +159,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.1 (1)">
-    <configuration name="公众号" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="新建文件夹" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020_8" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020_8/公众号.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="新建文件夹" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -246,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="新建文件夹" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -258,7 +192,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020_8/2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020_8/3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,7 +201,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="article" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="新建文件夹" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,11 +209,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7_work" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/appinn/appinn/spiders" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_work/2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/appinn/appinn/spiders/article.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,7 +222,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="weibo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="etree糗事百科" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="新建文件夹" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -296,11 +230,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020_8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spider/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020_8/weibo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider/exercise/etree糗事百科.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -309,13 +243,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="新建文件夹" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test01django" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test01django/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.1 (1)" />
+      <item itemvalue="Python.3" />
+      <item itemvalue="Python.article" />
+      <item itemvalue="Python.etree糗事百科" />
+      <item itemvalue="Python.manage" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.1 (1)" />
-        <item itemvalue="Python.2 (1)" />
-        <item itemvalue="Python.weibo" />
-        <item itemvalue="Python.公众号" />
-        <item itemvalue="Python.2" />
+        <item itemvalue="Python.3" />
+        <item itemvalue="Python.etree糗事百科" />
+        <item itemvalue="Python.article" />
+        <item itemvalue="Python.manage" />
       </list>
     </recent_temporary>
   </component>
@@ -337,7 +299,28 @@
       <option name="project" value="LOCAL" />
       <updated>1595346336122</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="all spider project">
+      <created>1597021770904</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597021770904</updated>
+    </task>
+    <task id="LOCAL-00003" summary="all spider project">
+      <created>1598690814064</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598690814064</updated>
+    </task>
+    <task id="LOCAL-00004" summary="all spider project">
+      <created>1598691085586</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598691085587</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -350,13 +333,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info x="518" y="59" width="499" height="706" id="DB Browser" order="0" sideWeight="0.49367088" weight="0.9801849" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.4957806" visible="true" weight="0.10568032" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.4957806" visible="true" weight="0.14134742" />
       <window_info id="Structure" order="2" sideWeight="0.5063291" side_tool="true" weight="0.3295905" />
       <window_info id="Favorites" order="3" sideWeight="0.5028329" side_tool="true" weight="0.14002642" />
+      <window_info anchor="bottom" id="GitHub Pull Requests" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.29745042" />
@@ -379,252 +362,162 @@
     <option name="LAST_COMMIT_MESSAGE" value="all spider project" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spider/children/07.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/appinn/appinn/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="25" selection-start-line="13" selection-end-line="27" selection-end-column="25" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider/children/08.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/zhaobiao/zhaobiao/items.py" />
+    <entry file="file://$PROJECT_DIR$/appinn/appinn/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appinn/appinn/spiders/article.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="62" column="22" selection-start-line="40" selection-end-line="62" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appinn/appinn/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="87" selection-start-line="87" selection-end-line="87" selection-end-column="35" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spider/children/09.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider/children/10.py">
+    <entry file="file://$PROJECT_DIR$/spider/children/07.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider/children/11.py">
+    <entry file="file://$PROJECT_DIR$/spider/children/05.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/children/03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spider/children/12.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/children/13.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/children/14.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/spider/children/15.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider/children2/05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/children2/04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/children2/03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/children2/01.py">
+    <entry file="file://$PROJECT_DIR$/spider/children/11.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/2020spider/tool/offerindexspider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="84" column="11" lean-forward="true" selection-start-line="84" selection-start-column="11" selection-end-line="84" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7_work/1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7_work/tupian.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="db://727c130d-f15f-441a-bef6-0925533207bd/consoles/root@localhost" />
-    <entry file="file://$PROJECT_DIR$/7_work/2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="89" selection-start-line="89" selection-end-line="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2020_8/公众号.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2020spider/tool/offerdatapie.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/602/class602/downloadimage.py">
+    <entry file="file://$PROJECT_DIR$/spider/children/16.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/602/class602/downloadsina.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/602/class602/class7_wushangteng_511721050575_wangzhehero/useragentutil.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/602/class602/class7_wushangteng_511721050575_wangzhehero/wangzhehero.py">
+    <entry file="file://$PROJECT_DIR$/zhaobiao/zhaobiao__apps.csv" />
+    <entry file="file://$PROJECT_DIR$/zhaobiao/scrapy.cfg" />
+    <entry file="file://$PROJECT_DIR$/spider/exercise/etree糗事百科.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4455">
+        <state relative-caret-position="200">
+          <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+          <folding>
+            <element signature="e#1#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaobiao/zhaobiao/settings.py" />
+    <entry file="file://$PROJECT_DIR$/zhaobiao/zhaobiao/spiders/zhao.py" />
+    <entry file="file://$PROJECT_DIR$/2020_7/qq音乐评论.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2020_8/weibo.py">
+    <entry file="file://$PROJECT_DIR$/spider/exercise/开心网-cookie.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="-57" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/exercise/cookie_相亲网.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-627" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2020_8/3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2020spider/tool/earnings_analy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2020spider/tool/endspider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="619">
-          <caret line="130" column="34" selection-start-line="130" selection-start-column="34" selection-end-line="130" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/exercise/抖音_selenium.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="95" lean-forward="true" selection-start-line="18" selection-start-column="95" selection-end-line="18" selection-end-column="95" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/exercise/百度js控制_selenium.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/7_work/xihu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="47" column="110" selection-start-line="46" selection-start-column="12" selection-end-line="47" selection-end-column="110" />
+        <state relative-caret-position="57">
+          <caret line="33" column="67" selection-start-line="33" selection-start-column="67" selection-end-line="33" selection-end-column="67" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/appinn/appinn/__init__.py">
+    <entry file="file://$PROJECT_DIR$/zhihu/zhihu/spiders/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/appinn/appinn/spiders/__init__.py">
+    <entry file="file://$PROJECT_DIR$/zhihu/zhihu/items.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/appinn/appinn/items.py">
+    <entry file="file://$PROJECT_DIR$/zhihu/zhihu/pipelines.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/appinn/appin_windows_apps.csv">
+    <entry file="file://$PROJECT_DIR$/zhihu/zhihu/settings.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/appinn/appinn/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1263" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/appinn/appinn/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/appinn/appinn/spiders/article.py">
+    <entry file="file://$PROJECT_DIR$/zhihu/zhihu/middlewares.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#145#171#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2020_7/spider.py">
+    <entry file="file://$PROJECT_DIR$/2020_8/公众号.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19">
-          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zhihu/zhihu_iphone.jsonl">
-      <provider selected="true" editor-type-id="LargeFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zhihu/check_result.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zhihu/zhihu/spiders/apple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+        <state relative-caret-position="-180">
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2020_7/cookie博客.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="28" column="81" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="81" />
+        <state relative-caret-position="418">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2020_7/csv文件汇合.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        <state relative-caret-position="247">
+          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
@@ -633,27 +526,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2020_7/excel保存数据.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        <state relative-caret-position="-361">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="6" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2020_7/excel文件汇合.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-390" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2020_7/selenium01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test01django/teacher/migrations/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test01django/teacher/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test01django/teacher/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test01django/teacher/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test01django/teacher/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test01django/teacher/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test01django/test01django/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-228" />
+        <state>
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2020_7/qq音乐评论.py">
+    <entry file="file://$PROJECT_DIR$/2020_8/2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-447">
+        <state relative-caret-position="418">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2020_8/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2020_7/多线程爬帖子评论.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -662,39 +592,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2020_7/人才网岗位.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1948">
-          <caret line="11" column="5" selection-start-line="9" selection-start-column="9" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="703">
+          <caret line="37" selection-start-line="36" selection-start-column="6" selection-end-line="37" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2020_7/多线程爬帖子评论.py">
+    <entry file="file://$PROJECT_DIR$/stylesheets/github-light.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/normalize.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2020_7/excel文件汇合.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2020spider/tool/endspider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1340">
+        <state relative-caret-position="152">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2020_8/1.py">
+    <entry file="file://$PROJECT_DIR$/zhihu/zhihu/spiders/apple.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2020_8/2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        <state relative-caret-position="618">
+          <caret line="49" column="37" selection-start-line="49" selection-start-column="37" selection-end-line="49" selection-end-column="65" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2020_7/spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhao.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
